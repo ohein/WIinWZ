@@ -1,3 +1,4 @@
+package Einstieg;
 
 public class ErstesProgramm {
 
