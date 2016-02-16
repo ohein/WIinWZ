@@ -9,9 +9,9 @@ public class Addition {
 		int b;
 		int c;
 		Scanner eingabe = new Scanner(System.in);
-		System.out.print(" 1. Summand: ");
+		System.out.print("1. Summand: ");
 		a=eingabe.nextInt();
-		System.out.print(" 2. Summand: ");
+		System.out.print("2. Summand: ");
 		b=eingabe.nextInt();
 		c=a+b;
 		System.out.print("Summe: " + c);
