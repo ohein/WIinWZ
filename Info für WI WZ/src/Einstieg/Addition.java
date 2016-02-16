@@ -17,5 +17,4 @@ public class Addition {
 		System.out.print("Summe: " + c);
 		eingabe.close();
 	}
-
 }
