@@ -55,9 +55,7 @@ public class Caesar {
         	else
         		verschiebung = (charArray[i] - offset)%128;
             cryptArray[i] = (char) (verschiebung);
- 
         }
         return cryptArray;
- 
     }
 }
